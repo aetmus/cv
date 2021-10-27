@@ -15,6 +15,11 @@ a {
   color: #d9cab3;
 }
 
+h1,
+h2 {
+  color: #6d9886;
+}
+
 #profile-pic {
   height: 15vh;
   border-radius: 50%;
