@@ -7,7 +7,7 @@ hr {
   border-style: dotted none none;
   border-width: 5px;
   border-color: #6d9886;
-  height: 0px;
+  height: 0;
   width: 5%;
 }
 
@@ -21,6 +21,6 @@ h2 {
 }
 
 #profile-pic {
-  height: 15vh;
   border-radius: 50%;
+  height: 15vh;
 }
